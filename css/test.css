@@ -1,14 +1,14 @@
 body {
     background: rgb(24, 24, 23);
-    
+
 }
-h1 {
+#h1 {
     color: orange;
     font-family:cursive;
 
 }
 
-.paula {
+.card-text {
     font-family:Arial, Helvetica, sans-serif;
     color:rgb(226, 43, 144);
 }
