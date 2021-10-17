@@ -1,12 +1,14 @@
 body {
-    background: lightyellow;
-    font: 18px Arial, sans-serif;
+    background: rgb(24, 24, 23);
+    
 }
 h1 {
     color: orange;
+    font-family:cursive;
+
 }
 
 .paula {
     font-family:Arial, Helvetica, sans-serif;
-    color:blueviolet;
+    color:rgb(226, 43, 144);
 }
